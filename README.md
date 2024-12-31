@@ -7,14 +7,13 @@ Welcome to the **Statistics and Probability Project**! This repository provides 
 ![Screenshot 2024-12-31 104316](https://github.com/user-attachments/assets/273e065a-2534-46a1-92bb-792924b4b8aa)
 
 ## Table of Contents
-1. [Data Handling](#data-handling)
-2. [Statistical Analysis](#statistical-analysis)
-3. [Univariate and Bivariate Analysis](#univariate-and-bivariate-analysis)
-4. [Data Visualization](#data-visualization)
-5. [Sales and Profit Analysis](#sales-and-profit-analysis)
-6. [Grouped Statistics](#grouped-statistics)
-7. [Technologies and Tools](#technologies-and-tools)
-
+1. Data Handling
+2. Statistical Analysis
+3. Univariate and Bivariate Analysis
+4. Data Visualization
+5. Sales and Profit Analysis
+6. Grouped Statistics
+7. Technologies and Tools
 ---
 
 ## 1. Data Handling
