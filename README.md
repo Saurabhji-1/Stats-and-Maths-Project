@@ -1,8 +1,11 @@
+# Hi, I'm Saurabh! 👋
+
 # Statistics and Probability Project
 
 Welcome to the **Statistics and Probability Project**! This repository provides an in-depth exploration of key statistical concepts, data analysis techniques, and visualization methods. Practical examples accompany each topic to help you understand and apply statistical methods to real-world datasets.
 
 ---
+
 
 ![Screenshot 2024-12-31 104316](https://github.com/user-attachments/assets/273e065a-2534-46a1-92bb-792924b4b8aa)
 
